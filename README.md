@@ -2,6 +2,8 @@
 
 This repository contains the backend API for my final year project: **AI Chatbot Tutor**. The project was designed to support learners while watching YouTube educational videos by generating transcript-aware summaries, quizzes, clarifications, and answers.
 
+<img width="723" height="906" alt="image" src="https://github.com/user-attachments/assets/4fbda6d4-cce3-42bf-9d08-4fa3de77c4be" />
+
 The full system was built as a Chrome extension frontend connected to this Flask backend. This repository focuses on the backend services responsible for transcript processing, context retrieval, AI response generation, logging, validation, and deployment.
 
 ## Project Overview
